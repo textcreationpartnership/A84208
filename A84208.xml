@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact relation of foureteen dayes passages from Portsmouth, the Isle of Wight, and other parts. Wherein is contained the manner of the proceeding of the cavaliers, and their confederates the papists, against the Christian-Protestants. Sent in a letter from a worthy gentleman in that county, to his friend in London. Whereunto is added some speciall passages from Hull, Lincoln-shire and Yorke.</title>
+            <author>Worthy gentleman in that county.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84208</idno>
+            <idno type="STC">Wing E3677</idno>
+            <idno type="STC">Thomason E112_34</idno>
+            <idno type="STC">ESTC R13929</idno>
+            <idno type="EEBO-CITATION">99859581</idno>
+            <idno type="PROQUEST">99859581</idno>
+            <idno type="VID">111671</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84208)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111671)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E112[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact relation of foureteen dayes passages from Portsmouth, the Isle of Wight, and other parts. Wherein is contained the manner of the proceeding of the cavaliers, and their confederates the papists, against the Christian-Protestants. Sent in a letter from a worthy gentleman in that county, to his friend in London. Whereunto is added some speciall passages from Hull, Lincoln-shire and Yorke.</title>
+                  <author>Worthy gentleman in that county.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Allen,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Variant: the 2nd "n" in "London" in line 13 of title is upside-down.</note>
+                  <note>Annotation on Thomason copy: "Aug. 19:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Portsmouth (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Hull (England) --  History --  Early works to 1800.</term>
+               <term>Lincolnshire (England) --  History --  Early works to 1800.</term>
+               <term>York (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111671:1" rendition="simple:additions"/>
+            <p>
+               <hi>An Exact</hi> RELATION <hi>Of Foureteen dayes</hi> PASSAGES FROM PORTS<g ref="char:punc">▪</g>MOUTH. The Iſle of <hi>Wight,</hi> and other parts.</p>
+            <p>Wherein is contained the manner of the proceeding of the <hi>Cavaliers,</hi> and their Confe<g ref="char:EOLhyphen"/>derates the Papiſts, againſt the Chriſtian-PROTESTANTS.</p>
+            <p>Sent in a Letter from a worthy Gentleman in that <hi>County,</hi> to his Friend in <hi>London.</hi>
+            </p>
+            <p>Whereunto is added ſome ſpeciall Paſſages from <hi>Hall, Lincoln-ſhire</hi> and <hi>Yorke.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benjamin Allen,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111671:2"/>
+            <head>A true Relation of foureteene dayes Paſſages, &amp;c.</head>
+            <div type="part">
+               <p>
+                  <seg rend="decorInit">F</seg>OR News thus it is with us, The greateſt p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of our Weſtern Gentry are profeſſed Royal<g ref="char:EOLhyphen"/>iſts. Two of them neare us are lately put into the Commiſſion of the Peace, enemies to the Pa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>liament, and very unfit, though they were better affected: but ſuch will ſerve to doe miſ<g ref="char:EOLhyphen"/>chief well enough. At <hi>Chicheſter,</hi> Sr. <hi>Thomas Boyer,</hi> Sr. <hi>Wil<g ref="char:EOLhyphen"/>liam Morley,</hi> Mr. <hi>L<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wknor</hi> the Recorder, a Man that is throughly known for the New-Corporation, with three other me<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of note, came and demanded of Captain <hi>Chittey,</hi> for the King, the Magazine of the City: the Captaine being a man well affected refuſed; they ſaid very peremptorily, <hi>That they would have it be<g ref="char:EOLhyphen"/>fore the m<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rrow morning;</hi> he replyed very <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>ſhould not:</hi> ſo he cauſed a ſtrong Watch to be ſet to keep it; and the next day appeared in the City well Armed, with many both of the place, and of the Countrey neare adjacent, to aſſiſt him and Guard him in his Office. St. <hi>Thomas Boyer,</hi> and Sir <hi>William Morly</hi> are Parliament Men, and ſo is Captain <hi>May</hi> another of thoſe fixe.</p>
+               <p>It is reported, that they with the men above mentioned, and Doctors and Clergie men of the Cathedrall Church had plot<g ref="char:EOLhyphen"/>ted to betray the City to Collonell <hi>Goring<g ref="char:punc">▪</g>
+                  </hi> Mr. <hi>Lewknor</hi> wrote to <hi>Portſmouth</hi> to the Collonell, to ſound the depth of his de<g ref="char:EOLhyphen"/>ſigne: the Collonell ſent him word, <hi>That his Commiſſion was to make</hi> Portſmouth <hi>as ſtrong as he could <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or his Maſter;</hi> and that he hoped, that bo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>rs would be aſſiſtant to him if need were. Since we <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Recorder is gone to <hi>Portſ mouth:</hi> Th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of our parts conſiſts mainely in honeſt Tradeſ-me<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aught, as was ſaid before, and the Country people are for the moſt part blinded and miſled by their malevolent Hedge-Prieſts, there being not above ſi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or ſeaven honeſt Miniſters here abouts. It is certaine,
+<pb facs="tcp:111671:2"/> that 2 Cavelliers raviſhed the ſame mayde, one after another neere <hi>Portſ-mouth,</hi> while one ſtood by and held their Horſes.</p>
+               <p>It is related that three gallant Gentle-women deſired to have a boat to waſt them over to <hi>Stokeſbay</hi> a place betweene <hi>Portſmouth</hi> and the Ile of <hi>Wight</hi> but not obtaining, they were in a friendly manner brought back to the above named Sr <hi>Tho<g ref="char:EOLhyphen"/>mas Boyers</hi> houſe in his coach: It is thought that they were men in womens apparell, becauſe they three were alone without any man.</p>
+               <p>Doctor <hi>Hinſhaw</hi> one of the Prebendaries of the high Church of <hi>Chicheſter</hi> ſent a load of wheate into <hi>Portſmouth;</hi> but lately, as we heare. The Churchmen there are every day exerciſing of their Light Horſes in the Biſhops cloſe: It is reported that one of them ſent his ſervant once, twice, and thrice, to Maſter <hi>Cawley</hi> a worthy Parliament man, and the chiefe Pillar of our Countrey on this ſide, intreating him to give him a meeting in the ſaid Cloſe, and other places: but as <hi>Nehemiah</hi> refuſed to meet <hi>Sanballat</hi> and <hi>Geſalm</hi> in one of the villages of the plaine of <hi>One,</hi> where they thought to do him miſchiefe; ſo did this Gentleman very wiſely and warily: He was willing to meete the Doctor at places which were not for his <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urne, and (as they ſay) he was ſo often repulſt, that at length his ſervant was ſent with an excuſe, that the m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n was miſtaken. By theſe particu<g ref="char:EOLhyphen"/>lars you may a little diſcerne the ſtate of our Countrey<g ref="char:punc">▪</g> But notwithſtanding al this (the Lord be praiſed) the Parliament I hope hath the better end of the ſtaffe. There is a Merchant in our Towne, which for three dayes together, law neare a man of War, lying before the Cows in the Ile of <hi>Wight;</hi> in this great Ship there is a <hi>Scottiſh</hi> Noble man (as they ſay) that hath done very good ſervice, he lyeth there and keepes proviſion from going out of the Ile to <hi>Portſ-mouth:</hi> he tooke a Boat la<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ely fraight with light Horſe Saddles and their, furniture going o<g ref="char:EOLhyphen"/>ver into the Iſle, and for the uſe of the malignant Party, he aſ<g ref="char:EOLhyphen"/>ked the boat-man what was his fraight, he ſaid 9. ſhillings, there tis quoth the Noble man, and paid him, &amp; bad him with<g ref="char:EOLhyphen"/>all
+<pb facs="tcp:111671:3"/> to bring the Horſes, &amp; he would give him another fraight. This Noble man hearing that one Captaine <hi>Newland</hi> had ſent proviſion over to <hi>Portſmouth,</hi> went a ſhore and ſought about for him, proteſting that he would ſend him up to the Parlia<g ref="char:EOLhyphen"/>ment, the Cap. ſculks and dares not be ſeene, he is a great fat tall man of a very Heatheniſh behaviour, and (as I heare by an honeſt man that hath ſeen him there) lyeth at Maſter <hi>Moulins,</hi> when he commeth to <hi>London,</hi> on Fiſh-ſtreet hill. There is a Captaine that is poſſeſſed of a Caſtle neare the Cows, he had inveagled the Countrey round about, and by faire glozing ſpeeches had perſwaded them to bring in their Arms into the ſaid Caſtle, telling them that they would be there kept in ſafe<g ref="char:EOLhyphen"/>ty from the Cavaliers, and when there ſhould be need of them he would redeliver them. But of late they of the Iland ſuſpe<g ref="char:EOLhyphen"/>cting ſome trechery in the Captaine, becauſe they heard that the Earle of <hi>Portland</hi> was put out of the Governement, went and demanded their Armes, the Captaine denies to deliver them: they had no preſent remedy, but went and made their complaint to the above named <hi>Scottiſh</hi> Lord: he goes to the Captaine and demands the Armes for the Ilanders: the Cap<g ref="char:EOLhyphen"/>taine ſtifly denyes, the Nobleman replyed, that if hee did not deliver them, he would heate down his Caſtle about his eares, the Captaine remaines ſtubborne ſtill, the Lord came with his Ship under the Caſtle, intending to make good his thretning: But when the Captaine ſaw whereto he muſt, he yeelded at length and delivered the Armes.</p>
+               <p>There have bin three times Letters intercepted geing to, and coming from <hi>Portſmouth.</hi> At <hi>Havant</hi> neare <hi>Portſ-mouth</hi> the Towneſmen tooke a Travailer upon ſuſpicion, puld off his cloathes, and in his Bootes found Letters from the North to the Gariſon, the Letters were carried to Mr. <hi>Richard Norton,</hi> a good Gentleman hard by; he wiſht that they had brought the meſſenger aſwell as his Packet; whereupon a few luſty men went out with their muſquets after him, and tooke him, and brought him to Mr. <hi>Norton,</hi> who ſent him and his Letters up to the Parliament.</p>
+               <pb facs="tcp:111671:3"/>
+               <p> Another time there were letters paſſing from <hi>Chicheſter</hi> to <hi>Portſmouth</hi> the Meſſenger went of purpoſe through by-ways, there met him a man (conceive, the ſimpleſt to ſee to, that ever you ſaw, and you have his Image) who demanded of him whi<g ref="char:EOLhyphen"/>ther he was going, he ſaid to <hi>Portſ-mouth,</hi> not ſuſpecting that ſuch a ſimple fellow would, or could defeate him, but that ſim<g ref="char:EOLhyphen"/>ple unlikely man laid hold of his bridle, bad him to ſtay, told him, that he was an Officer; with that came another man, who helped him, and ſo they carried away the meſſenger to Mr. <hi>Nortons.</hi>
+               </p>
+               <p>This day Goodmen <hi>Faiſters</hi> of <hi>Lewes,</hi> having been at <hi>Havant</hi> whither he was ſent by the Lady <hi>Clearke,</hi> Mr. <hi>Staples</hi> Wife, to learne the certainty of occurrences neere <hi>Portſmouth,</hi> brings Newes of a woman that was ſent out of <hi>Portſmouth,</hi> with a pup<g ref="char:EOLhyphen"/>pet of clouts like a childe in her armes, ſhe came along by a Fort, which was firſt built at <hi>Portsbridge</hi> within 3. miles of <hi>Portſmouth</hi> by the Cavaliers, but is ſince abandoned by them, and they retired into the Gariſon for feare of our Men, and ſince there are hundreds at worke about it, for <hi>King</hi> and <hi>Parli<g ref="char:EOLhyphen"/>ament,</hi> and have planted Ordnance upon it. The Cavaliers when they left it, drew away foure Pieces, and their Carriage breaking, they were faine to leave a fift upon the way. But to come to the woman again, one of our Men asked her what ſhe carried, ſhe ſaid a childe, prithee let me ſee thy Baby, ſaid he, ſo ſearch being made, it was found ſuch as I ſaid, the lower part was onely clouts, but in the head of it was a blacke Box full of Letters, Shee and her Stilborne, are carried to the right place, I warrant you. A Cavalier and his Man rode into <hi>Ha<g ref="char:EOLhyphen"/>vant</hi> upon luſty Steeds, labouring to raiſe there a Malignant party, to help him in plundering o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mr. <hi>Nortons</hi> Houſe, the good Gentleman had newes of it preſently, he ſends out ſome of his Men on Light Horſes with Piſtols, who rode after the Cavalier and his Man, tooke them and brought them to their Maſter, who diſmounts them from their owne horſes, ſets them upon a couple of jades, and ſends them up to the Parliament
+<pb facs="tcp:111671:4"/> an honeſt man of my acquaintance was at Mr. <hi>Nortons,</hi> when this was done. After this a Troope of Cavaliers with certaine foot came up to <hi>Portſdowne,</hi> and challeng'd Mr. <hi>Norton</hi> forth, ſaying, where is this ſame <hi>Norton;</hi> where is he? I warrant him he is a very coward, let him come forth if he dare; and at this time they held the Fort; Mr. <hi>Norton</hi> hearing of it preſently Armes himſelfe, puts on his Buffe coate, and was riding out to them with his Men, and juſt upon the ſpeed of it arrives at his houſe a 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. light <hi>Horſe,</hi> from the Parliament, out they goe with him but when the <hi>Cavaliers</hi> ſaw ſuch a ſtrength come againſt them, they poſted down the hill towards their Fort with great ſpeed, the Scots that were among Mr. <hi>Nortons</hi> auxiliaries, would preſently have flown on upon the Fort, but Mr. <hi>Norton</hi> would not ſuffer them for feare of danger, there being Ordnance plan<g ref="char:EOLhyphen"/>there. Another time 30. of the Cavaliers came out in a vaun<g ref="char:EOLhyphen"/>ting manner, againſt whom went but 6 of our light Horſe: the Cavaliers all diſch<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rged upon them, but hurt never a man of them, onely hit one of their Horſes on the ſhoulder, eaſily curable; our ſix then made neerer up to them; the Cavaliers ſeeing them ſo ventrous, were ſtricken with feare and fled, our men made after them amaine, and being within ſhot of them, diſcharged upon them, ſhot one through the backe, who fell downe from his Horſe dead in the place, another they hit in the breech, who fell likewiſe, but made a ſhift to creep away into a hedge, and a third they tooke alive on his horſe, ſo they tooke a man and 3. Horſes, being but 6 againſt 30. praiſed bee the Lord of Hoaſts for ſo great a victory. It is ſaid that the old Souldiers doe daily make eſcape out of <hi>Portſmouth,</hi> and it is thought that the reſt will gladly ſurrender the Town, if once it were but formally demanded: for they begin already to be in diſtreſſe through want. One Mr. <hi>Bellingham</hi> a young Gen<g ref="char:EOLhyphen"/>tleman rode, armed capape from <hi>Chicheſter</hi> into <hi>Portſmouth,</hi> but now wiſheth that he were out again, and is at charges 5 <hi>ſhillings</hi> a day onely for a boat, which lieth at hand, ſtill waiting for an opportunity to make his eſcape home, but cannot yet get way.</p>
+               <pb facs="tcp:111671:4" rendition="simple:additions"/>
+               <p> Some of the <hi>Scots</hi> that came among the 100 Troopers to <hi>M. Nortons</hi> ſuccor, are of purpoſe billetted in one <hi>Bringſteds</hi> houſe the Parſon of <hi>Havant,</hi> becauſe being a moſt peſtilent man he had provided a Light Horſe for the ſervice of the Cavaliers, the <hi>Scots</hi> are with him therefore, and <hi>M. Norton</hi> hath charged him with the keeping of 10 Light Horſe for the King and Parliament, becauſe he was ſo briſke; and lately one of the <hi>Scots</hi> men being agreived with him, fell upon him and baſted him welfavouredly: and faine he would be gone, but they will not let him; ſo he is forced to ſtay, waites upon them dai<g ref="char:EOLhyphen"/>ly, gives them good words, and tells them, that he will gladly lie out of his owne bed to make them roome. And both here with us at <hi>Ar<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ndell,</hi> and elſe where (as I heare) the <hi>Pſalmiſts</hi> words are true: <hi>Gods enemies are found lyars to him,</hi> that is, they yeeld him ſained ſubmiſſion, ſpeaking favourable of the Parli<g ref="char:EOLhyphen"/>ament, who not many daies agoe, had their mouths filled with other manner of language; and as it was in <hi>Mordica's</hi> time; many of the people of the Land became Iewes, becauſe the feare of the Iewes fell upon them: So I hope you will ſhort<g ref="char:EOLhyphen"/>ly heare it to be among us every where; yet becauſe abundant warineſſe never harteth, therefore we neither are, nor will be ſecure, till there be no more cauſe of feare. Good-man <hi>Mai<g ref="char:EOLhyphen"/>ſters</hi> brings newes that the Papiſts neere <hi>Portſ-mouth</hi> do much miſchiefe and that himſelfe was like to be taken by the Cava<g ref="char:EOLhyphen"/>liers, but there coming after him 2 Travailers horſemen, acci<g ref="char:EOLhyphen"/>dentally, the Cavaliers thought that there were more coming, ſo they fled away with all poſſible ſpeed.</p>
+               <p>It is reported by them that fall off from the Gari<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t <hi>Portſmouth,</hi> that the Collonel being angry with them of <hi>Goſ<g ref="char:EOLhyphen"/>par,</hi> a Village not farre from the Towne, becauſe they would not come into his aide, commanded a Canoneer to let flie at their Houſes, the Canoneer at firſt refuſed, but being threat<g ref="char:EOLhyphen"/>ned by the Collonell, that hee would run him through, if hee would not, hee ſhot, but it was over the houſes, and ſo did, no harme.</p>
+               <closer>
+                  <dateline>Dated, <date>16. Auguſt 1642.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <pb facs="tcp:111671:5"/>
+               <head>From HVLL.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>the Forces are all gone from hence, and from <hi>Beverley,</hi> and wee hope to have trade againe, for I hope wee are now in the ſafeſt place of <hi>England:</hi> and though ſome particular perſons, have beene robbed and ſpoyled of their goods in the Countrey, yet God be thanked, our Countrey is not much worſe in generall, then it was afore the Cavaliers, for what hurt they did, we paid with dollers and good Engliſh coine made good ſo long as it laſted, one thing remarkable of the fainting ſpirits, obſerve by this paſſage tieir Centinells were ſo frighted with ſome paſſengers that loſt their way, comming neere them, made them all runne away, fearing there were more comming behind, <hi>the wicked flee when none purſues them:</hi> I pray God make us thankefull for our de<g ref="char:EOLhyphen"/>liverance. If God permit us a meeting, I ſhall relate that to you, that I cannot commit to paper, but this is certaine, our Country is much firmer to the <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> then ever it was before.</p>
+            </div>
+            <div type="part">
+               <head>From Lincolne-ſhire.</head>
+               <p>THe Newes that wee have here is little, for the preſent, onely this is certaine, that Sir <hi>Iohn Hotham</hi> is ſo dreadfull to ſome of the Cavaliers, that one of them and the one of no ſmall houſe is mad, and once running under his bed in his mad fit cryed out, Sir <hi>Iohn Hotham</hi> comes, Sir <hi>Iohn Hotham</hi> comes, he be<g ref="char:EOLhyphen"/>ing here under cure for that diſeaſe, and there came a Company of them to our Towne, but they were ſuch Hell-hounds, Blaſphemous Villaines, Drun<g ref="char:EOLhyphen"/>ken Sots, and for the moſt part ſo meanly acoutred, that they are aſhamed to ſee, and are now gone, as wee here: for <hi>Lincolne</hi> Towne, wee want but ſome encouragement from <hi>London,</hi> and wee ſhould doe well enough here.</p>
+            </div>
+            <div type="part">
+               <head>From YORKE.</head>
+               <p>VVEe have here as great preparations, as you have in <hi>London,</hi> and wee hope we have <hi>Warwick</hi> Caſtle, and the Guns ſure, and <hi>Portſmouth</hi> and <hi>Sommerſet-ſhire</hi> wee hope, we have alſo ſure, and ſo in the end we hope to have all; we had a meeting here yeſterday and to day, but not ſo great an appea<g ref="char:EOLhyphen"/>taance as ſome could have wiſhed, its ſaid that Sir <hi>Iohn Hotham</hi> and Dr. <hi>Baſtwick</hi> will be tryed here this Seſſions, it may goe hard with Dr. <hi>Baſtwick.</hi> but how they will come by Sir <hi>Iohn Hotham,</hi> I leave to judge, I know not.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
